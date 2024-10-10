@@ -1,0 +1,6 @@
+flask
+langchain
+langchain_huggingface
+langchain_core
+pydantic
+supabase
